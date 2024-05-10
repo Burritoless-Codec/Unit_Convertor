@@ -181,7 +181,7 @@ int main() {
     }
     else if (category == 'M') {
         printf("Please Select one.\n");
-        printf("G-LBS(1), OZ-LBS(2), KG-LBS(3), OZ-G(4), LBS=G(5)\n");
+        printf("G-LBS(1), OZ-LBS(2), KG-LBS(3), OZ-G(4), LBS-G(5)\n");
         scanf("%d", &user_choice);
         if(user_choice == 1){
             printf("How many grams: \n");
