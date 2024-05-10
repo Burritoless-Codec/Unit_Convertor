@@ -21,11 +21,11 @@ This C program is a simple unit converter that allows users to convert between d
 - Fahrenheit to Celsius
 - Celsius to Fahrenheit
 
-### Currency (Currency)
+### Currency
 - USD to EUR, JPY, CNY, GBP, AUD, FR, CAD, MXN
 - EUR, JPY, CNY, GBP, AUD, FR, CAD, MXN to USD
 
-### Weight (Weight)
+### Weight (Mass)
 - Grams to pounds (G-LBS)
 - Ounces to pounds (OZ-LBS)
 - Kilograms to pounds (KG-LBS)
