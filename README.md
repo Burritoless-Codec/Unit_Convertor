@@ -1,15 +1,29 @@
-# Auto Clicker
+# Unit Converter
 
-This is a simple auto-clicker program written in C that allows you to automate mouse clicks on Windows.
+This C program allows users to convert between different units including temperature, currency, and weight. It provides a simple command-line interface for easy interaction.
+
+## Features
+
+- Temperature Conversion (Fahrenheit to Celsius and vice versa)
+- Currency Conversion (USD to other currencies and vice versa)
+- Weight Conversion (Grams, Ounces, Kilograms, Pounds)
 
 ## Usage
 
-1. Compile the program using a C compiler (e.g., GCC).
-2. Run the compiled executable.
-3. Press `-` to start/stop clicking.
-4. Press `=` to exit the program.
+1. Clone the repository to your local machine.
+2. Compile the program using a C compiler (e.g., GCC).
+3. Run the compiled executable.
+4. Follow the on-screen instructions to choose the type of conversion and input values accordingly.
 
+## How to Compile
 
+Use a C compiler to compile the `unit_converter.c` file.
+
+Example using GCC:
+
+```bash
+gcc unit_converter.c -o unit_converter
+```
 ## Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
