@@ -1,7 +1,0 @@
-# ninja log v5
-13	65	7370768328816178	CMakeFiles/unit_con.dir/main.c.obj	6fafd82d5e55fc45
-82	162	7370843803538675	unit_con.exe	3b0dbb02b4d79a8d
-14	81	7370843802763540	CMakeFiles/unit_con.dir/unit_conv.c.obj	7ed4d7579cd3535
-6	203	7370861144755502	build.ninja	209c6285ccbb0cf3
-11	67	7370861215237473	CMakeFiles/unit_con.dir/unit_conv.c.obj	7ed4d7579cd3535
-68	137	7370861215907589	unit_con.exe	3b0dbb02b4d79a8d
