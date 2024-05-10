@@ -1,29 +1,37 @@
 # Unit Converter
 
-This C program allows users to convert between different units including temperature, currency, and weight. It provides a simple command-line interface for easy interaction.
+This C program is a simple unit converter that allows users to convert between different units such as temperature, currency, and weight.
 
 ## Features
 
-- Temperature Conversion (Fahrenheit to Celsius and vice versa)
-- Currency Conversion (USD to other currencies and vice versa)
-- Weight Conversion (Grams, Ounces, Kilograms, Pounds)
+- Converts temperature between Fahrenheit and Celsius.
+- Converts currency between various currencies (USD, EUR, JPY, CNY, GBP, AUD, FR, CAD, MXN).
+- Converts weight between different units (grams, ounces, kilograms, pounds).
 
 ## Usage
 
 1. Clone the repository to your local machine.
 2. Compile the program using a C compiler (e.g., GCC).
 3. Run the compiled executable.
-4. Follow the on-screen instructions to choose the type of conversion and input values accordingly.
+4. Follow the on-screen instructions to choose the type of conversion and input the values.
 
-## How to Compile
+## Supported Conversions
 
-Use a C compiler to compile the `unit_converter.c` file.
+### Temperature (Temp)
+- Fahrenheit to Celsius
+- Celsius to Fahrenheit
 
-Example using GCC:
+### Currency (Currency)
+- USD to EUR, JPY, CNY, GBP, AUD, FR, CAD, MXN
+- EUR, JPY, CNY, GBP, AUD, FR, CAD, MXN to USD
 
-```bash
-gcc unit_converter.c -o unit_converter
-```
+### Weight (Weight)
+- Grams to pounds (G-LBS)
+- Ounces to pounds (OZ-LBS)
+- Kilograms to pounds (KG-LBS)
+- Ounces to grams (OZ-G)
+- Pounds to grams (LBS-G)
+
 ## Contributing
 Contributions are welcome! Fork the repository, make your changes, and submit a pull request.
 
